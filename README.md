@@ -1,6 +1,6 @@
 # Drapeau Américain
 
-Mon programme est un petit programme en Python réaliser en groupe de 3 qui permet de réaliser le drapeau américain via turtle.
+Mon programme est un petit programme en Python réaliser en groupe de 3 personnes, ce programme permet de réaliser le drapeau américain via le module turtle.
 
 
 ### Prérequis
